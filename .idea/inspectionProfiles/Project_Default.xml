@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ADDITIONAL_TAGS" value="Date：2023/4/15,Author：林中有神君,Package：com.linzhongyoushenjun.Traceability.common,Package：com.linzhongyoushenjun.Traceability.config,Package：com.linzhongyoushenjun.Traceability.listener" />
+    </inspection_tool>
+  </profile>
+</component>
